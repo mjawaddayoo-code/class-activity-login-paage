@@ -1,0 +1,48 @@
+.heading-1{
+    padding-left: 300px;
+
+
+}
+.Box{
+    width: 70vh;
+    height: 80vh;
+    background-color: aliceblue;
+    margin: auto;
+}
+.boxheading{
+    padding-left: 50px;
+    padding-top: 70px;
+    color: rgb(161, 172, 182);
+}
+.sendheading{
+
+    padding-left:50px ;
+}
+.email{
+    /* height: 30px; */
+    /* width: 100px; */
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    margin-left:20px ;
+     margin-top: 20px;
+    width: 100px;
+}
+.password{
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+     margin-left:20px ;
+     margin-top: 20px;
+}
+.input{
+    width: 500px;
+    height: 30px;
+    margin-left: 28px;
+}
+.checkbox{
+    width: 30px;
+    height: auto;
+    margin-top: 10px;
+    margin-left: 42px;
+}
